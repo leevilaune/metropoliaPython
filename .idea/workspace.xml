@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d87bb34-6f1e-4cd4-ac68-57892a6cfb59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/01_ensimmäinen_ohjelma/HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/02_muuttujat/Muuttujat2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/02_muuttujat/Muuttujat3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/02_muuttujat/Muuttujat4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/02_muuttujat/Muuttujat5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/02_muuttujat/Muuttujat6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/02_muuttujat/Muutujat1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/02_muuttujat/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/03_ehtorakenne/Ehtorakenne1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/03_ehtorakenne/Ehtorakenne2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/03_ehtorakenne/Ehtorakenne3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/03_ehtorakenne/Ehtorakenne4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/03_ehtorakenne/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/01_ensimmäinen_ohjelma/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +38,19 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2kso6T3od9Irpe3CApRLpcYysWE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Ehtorakenne1.executor": "Run",
+    "Python.Ehtorakenne2.executor": "Run",
+    "Python.Ehtorakenne3.executor": "Run",
+    "Python.Ehtorakenne4.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.Muuttujat2.executor": "Run",
     "Python.Muuttujat3.executor": "Run",
@@ -50,6 +58,12 @@
     "Python.Muuttujat5.executor": "Run",
     "Python.Muuttujat6.executor": "Run",
     "Python.Muutujat1.executor": "Run",
+    "Python.WhileToisto1.executor": "Run",
+    "Python.WhileToisto2.executor": "Run",
+    "Python.WhileToisto3.executor": "Run",
+    "Python.WhileToisto4.executor": "Run",
+    "Python.WhileToisto5.executor": "Run",
+    "Python.WhileToisto6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
