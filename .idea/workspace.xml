@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d87bb34-6f1e-4cd4-ac68-57892a6cfb59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/03_ehtorakenne/Ehtorakenne1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/03_ehtorakenne/Ehtorakenne2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/03_ehtorakenne/Ehtorakenne3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/03_ehtorakenne/Ehtorakenne4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/03_ehtorakenne/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/WhileToisto6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/04_while_toisto/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +44,9 @@
     "Python.Ehtorakenne3.executor": "Run",
     "Python.Ehtorakenne4.executor": "Run",
     "Python.HelloWorld.executor": "Run",
+    "Python.ListaJaFor1.executor": "Run",
+    "Python.ListaJaFor2.executor": "Run",
+    "Python.ListaJaFor3.executor": "Run",
     "Python.Muuttujat2.executor": "Run",
     "Python.Muuttujat3.executor": "Run",
     "Python.Muuttujat4.executor": "Run",
