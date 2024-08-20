@@ -1,0 +1,1 @@
+nimi = input("Anna nimesi: ")
