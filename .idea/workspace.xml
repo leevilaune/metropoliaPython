@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d87bb34-6f1e-4cd4-ac68-57892a6cfb59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/06_funktio/Funktio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/06_funktio/Funktio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/06_funktio/Funktio3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/06_funktio/Funktio4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/06_funktio/Funktio5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/06_funktio/Funktio6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/06_funktio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/07_monikko_joukko_sanakirja/MonikkoJoukkoSanakirja1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/07_monikko_joukko_sanakirja/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +46,7 @@
     "Python.Funktio3.executor": "Run",
     "Python.Funktio4.executor": "Run",
     "Python.Funktio5.executor": "Run",
+    "Python.Funktio6.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.ListaJaFor1.executor": "Run",
     "Python.ListaJaFor2.executor": "Run",
