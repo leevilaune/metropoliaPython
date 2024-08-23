@@ -12,7 +12,7 @@ while(i<pisteet):
     x = piste[0]
     y = piste[1]
     print(piste)
-    if(x**2+y**2<=1):
+    if(x**2+y**2<1):
         pisteetYmpyrässä.append(piste)
     i+=1
 
