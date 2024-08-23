@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d87bb34-6f1e-4cd4-ac68-57892a6cfb59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/08_relaatiotietokanta/relaatiotietokanta2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/08_relaatiotietokanta/relaatiotietokanta3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Python.monikko_joukko_sanakirja3.executor": "Run",
     "Python.relaatiotietokanta1.executor": "Run",
     "Python.relaatiotietokanta2.executor": "Run",
+    "Python.relaatiotietokanta3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
