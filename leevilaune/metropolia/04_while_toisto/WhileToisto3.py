@@ -3,7 +3,7 @@ numerot = []
 while(True):
     numero = input("Anna numero: ")
     if(numero==""):
-        break;
+        break
     numerot.append(int(numero))
 
 print("Pienin",min(numerot))

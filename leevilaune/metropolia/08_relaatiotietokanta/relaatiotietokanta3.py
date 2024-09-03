@@ -24,4 +24,3 @@ icao1 = input("Anna ensimmäinen ICAO: ")
 icao2 = input("Anna toinen ICAO: ")
 
 print(calculate_distance(get_airport(icao1)[0],get_airport(icao2)[0]))
-
