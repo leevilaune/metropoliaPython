@@ -1,11 +1,11 @@
 import random
 
-import Car
+from Car import Car
 
 cars = []
 
 for i in range(10):
-    cars.append(Car.Car(f"ABC-{i}", random.randint(100,200)))
+    cars.append(Car(f"ABC-{i}", random.randint(100,200)))
 
 while(True):
     current_car = i

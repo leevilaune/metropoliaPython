@@ -3,7 +3,7 @@ lista = []
 while(True):
     syote = input("Anna luku: ")
     if(syote==""):
-        break;
+        break
     lista.append(int(syote))
 
 lista.sort(reverse=True)

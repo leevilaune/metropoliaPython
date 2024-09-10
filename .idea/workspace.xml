@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d87bb34-6f1e-4cd4-ac68-57892a6cfb59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/Car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/Competition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/Elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/House.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/assosiaatio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/assosiaatio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/assosiaatio4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor1.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor2.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor3.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/07_monikko_joukko_sanakirja/monikko_joukko_sanakirja1.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/07_monikko_joukko_sanakirja/monikko_joukko_sanakirja1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot1.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot2.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot3.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot4.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +56,7 @@
     "Python.Ehtorakenne2.executor": "Run",
     "Python.Ehtorakenne3.executor": "Run",
     "Python.Ehtorakenne4.executor": "Run",
+    "Python.Elevator.executor": "Run",
     "Python.Funktio1.executor": "Run",
     "Python.Funktio2.executor": "Run",
     "Python.Funktio3.executor": "Run",
@@ -48,6 +64,7 @@
     "Python.Funktio5.executor": "Run",
     "Python.Funktio6.executor": "Run",
     "Python.HelloWorld.executor": "Run",
+    "Python.House.executor": "Run",
     "Python.ListaJaFor1.executor": "Run",
     "Python.ListaJaFor2.executor": "Run",
     "Python.ListaJaFor3.executor": "Run",
@@ -65,6 +82,9 @@
     "Python.WhileToisto4.executor": "Run",
     "Python.WhileToisto5.executor": "Run",
     "Python.WhileToisto6.executor": "Run",
+    "Python.assosiaatio1.executor": "Run",
+    "Python.assosiaatio2.executor": "Run",
+    "Python.assosiaatio4.executor": "Run",
     "Python.monikko_joukko_sanakirja1.executor": "Run",
     "Python.monikko_joukko_sanakirja2.executor": "Run",
     "Python.monikko_joukko_sanakirja3.executor": "Run",
@@ -76,10 +96,14 @@
     "Python.relaatiotietokanta2.executor": "Run",
     "Python.relaatiotietokanta3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/leevilaune/PycharmProjects/MetropoliaPython/leevilaune/metropolia/10_assosiaatio"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/leevilaune/metropolia/01" />
     </key>

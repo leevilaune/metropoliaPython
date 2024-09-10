@@ -13,7 +13,6 @@ def get_season(month):
     12/3-4=4-4=0 is december/winter
     8/3-4=2-4=-2 is august/summer
     """
-
     season_num = (month//3)-4
     print(season_num)
     season = seasons[season_num]
