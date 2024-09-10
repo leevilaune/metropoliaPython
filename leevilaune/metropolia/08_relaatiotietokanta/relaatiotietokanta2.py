@@ -8,7 +8,7 @@ def get_airports(iso_country):
 def count_airport_types(airports):
     airport_types = dict()
     for airport in airports:
-        if(airport_types.get(airport[2]) is not None):
+        if airport_types.get(airport[2]) is not None:
             airport_types[airport[2]]+=1
         else:
             airport_types[airport[2]]=1
@@ -24,7 +24,7 @@ connection = mysql.connector.connect(host="127.0.0.1",
 
 while(True):
     iso_country = input("Anna maatunnus: ")
-    if(iso_country==""):
+    if iso_country== "":
         break
     types = count_airport_types(get_airports(iso_country))
     for type in types:

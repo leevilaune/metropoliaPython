@@ -2,6 +2,9 @@ import mysql.connector
 
 def get_airport(icao):
     cursor = connection.cursor()
+    if icao.find("'") or icao.find('"'):
+        print("Trying to SQL Inject?")
+        return
     cursor.execute(f"SELECT * FROM airport WHERE ident='{icao}'")
     return cursor.fetchall()
 

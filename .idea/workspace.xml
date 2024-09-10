@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d87bb34-6f1e-4cd4-ac68-57892a6cfb59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/Car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/Competition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/Elevator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/House.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/assosiaatio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/assosiaatio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio/assosiaatio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/11_periytyminen/Car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/11_periytyminen/Publishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/11_periytyminen/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/11_periytyminen/periytyminen1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leevilaune/metropolia/11_periytyminen/periytyminen2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor1.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor2.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor3.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/05_lista_ja_for/ListaJaFor3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/07_monikko_joukko_sanakirja/monikko_joukko_sanakirja1.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/07_monikko_joukko_sanakirja/monikko_joukko_sanakirja1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot1.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot2.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot3.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot4.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/09_oliot/oliot4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/08_relaatiotietokanta/relaatiotietokanta1.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/08_relaatiotietokanta/relaatiotietokanta1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/08_relaatiotietokanta/relaatiotietokanta2.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/08_relaatiotietokanta/relaatiotietokanta2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/08_relaatiotietokanta/relaatiotietokanta3.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/08_relaatiotietokanta/relaatiotietokanta3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +68,7 @@
     "Python.Muuttujat5.executor": "Run",
     "Python.Muuttujat6.executor": "Run",
     "Python.Muutujat1.executor": "Run",
+    "Python.Publishing.executor": "Run",
     "Python.WhileToisto1.executor": "Run",
     "Python.WhileToisto2.executor": "Run",
     "Python.WhileToisto3.executor": "Run",
@@ -92,16 +85,19 @@
     "Python.oliot2.executor": "Run",
     "Python.oliot3.executor": "Run",
     "Python.oliot4.executor": "Run",
+    "Python.periytyminen1.executor": "Run",
+    "Python.periytyminen2.executor": "Run",
     "Python.relaatiotietokanta1.executor": "Run",
     "Python.relaatiotietokanta2.executor": "Run",
     "Python.relaatiotietokanta3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/leevilaune/PycharmProjects/MetropoliaPython/leevilaune/metropolia/10_assosiaatio"
+    "last_opened_file_path": "/Users/leevilaune/PycharmProjects/MetropoliaPython/leevilaune/metropolia/11_periytyminen"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leevilaune/metropolia/11_periytyminen" />
       <recent name="$PROJECT_DIR$/leevilaune/metropolia/10_assosiaatio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
