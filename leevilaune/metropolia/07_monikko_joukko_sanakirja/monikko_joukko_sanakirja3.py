@@ -11,3 +11,5 @@ while(True):
     elif(user_input=="hae"):
         icao = input("Anna ICAO: ")
         print(airports[icao])
+    else:
+        print("virheellinen syöte")
