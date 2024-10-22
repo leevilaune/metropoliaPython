@@ -1,5 +1,3 @@
-from crypt import methods
-
 from flask import Flask, Response
 import json
 
