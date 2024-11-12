@@ -7,7 +7,6 @@
     <list default="true" id="6d87bb34-6f1e-4cd4-ac68-57892a6cfb59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/13_taustapalvelu/AirportAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/13_taustapalvelu/AirportAPI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leevilaune/metropolia/13_taustapalvelu/PrimeNumberAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/leevilaune/metropolia/13_taustapalvelu/PrimeNumberAPI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,64 +34,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.API.executor": "Run",
-    "Python.AirportAPI.executor": "Run",
-    "Python.Car.executor": "Run",
-    "Python.Ehtorakenne1.executor": "Run",
-    "Python.Ehtorakenne2.executor": "Run",
-    "Python.Ehtorakenne3.executor": "Run",
-    "Python.Ehtorakenne4.executor": "Run",
-    "Python.Elevator.executor": "Run",
-    "Python.Funktio1.executor": "Run",
-    "Python.Funktio2.executor": "Run",
-    "Python.Funktio3.executor": "Run",
-    "Python.Funktio4.executor": "Run",
-    "Python.Funktio5.executor": "Run",
-    "Python.Funktio6.executor": "Run",
-    "Python.HelloWorld.executor": "Run",
-    "Python.House.executor": "Run",
-    "Python.ListaJaFor1.executor": "Run",
-    "Python.ListaJaFor2.executor": "Run",
-    "Python.ListaJaFor3.executor": "Run",
-    "Python.ListaJaFor4.executor": "Run",
-    "Python.MonikkoJoukkoSanakirja1.executor": "Run",
-    "Python.Muuttujat2.executor": "Run",
-    "Python.Muuttujat3.executor": "Run",
-    "Python.Muuttujat4.executor": "Run",
-    "Python.Muuttujat5.executor": "Run",
-    "Python.Muuttujat6.executor": "Run",
-    "Python.Muutujat1.executor": "Run",
-    "Python.Publishing.executor": "Run",
-    "Python.WhileToisto1.executor": "Run",
-    "Python.WhileToisto2.executor": "Run",
-    "Python.WhileToisto3.executor": "Run",
-    "Python.WhileToisto4.executor": "Run",
-    "Python.WhileToisto5.executor": "Run",
-    "Python.WhileToisto6.executor": "Run",
-    "Python.assosiaatio1.executor": "Run",
-    "Python.assosiaatio2.executor": "Run",
-    "Python.assosiaatio4.executor": "Run",
-    "Python.monikko_joukko_sanakirja1.executor": "Run",
-    "Python.monikko_joukko_sanakirja2.executor": "Run",
-    "Python.monikko_joukko_sanakirja3.executor": "Run",
-    "Python.olio1.executor": "Run",
-    "Python.oliot2.executor": "Run",
-    "Python.oliot3.executor": "Run",
-    "Python.oliot4.executor": "Run",
-    "Python.periytyminen1.executor": "Run",
-    "Python.periytyminen2.executor": "Run",
-    "Python.rajapinta1.executor": "Run",
-    "Python.rajapinta2.executor": "Run",
-    "Python.relaatiotietokanta1.executor": "Run",
-    "Python.relaatiotietokanta2.executor": "Run",
-    "Python.relaatiotietokanta3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/leevilaune/PycharmProjects/MetropoliaPython/leevilaune/metropolia/11_periytyminen"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.API.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AirportAPI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ehtorakenne1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ehtorakenne2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ehtorakenne3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ehtorakenne4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Elevator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funktio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funktio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funktio3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funktio4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funktio5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funktio6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.House.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListaJaFor1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListaJaFor2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListaJaFor3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListaJaFor4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MonikkoJoukkoSanakirja1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Muuttujat2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Muuttujat3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Muuttujat4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Muuttujat5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Muuttujat6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Muutujat1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Publishing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileToisto1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileToisto2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileToisto3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileToisto4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileToisto5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileToisto6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assosiaatio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assosiaatio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assosiaatio4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monikko_joukko_sanakirja1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monikko_joukko_sanakirja2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monikko_joukko_sanakirja3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.olio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oliot2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oliot3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oliot4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.periytyminen1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.periytyminen2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rajapinta1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rajapinta2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.relaatiotietokanta1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.relaatiotietokanta2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.relaatiotietokanta3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leevilaune/PycharmProjects/MetropoliaPython/leevilaune/metropolia/11_periytyminen&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/leevilaune/metropolia/11_periytyminen" />
@@ -105,7 +110,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -117,8 +123,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724081470223</updated>
+      <workItem from="1729587268280" duration="9000" />
+      <workItem from="1730191048447" duration="5454000" />
+      <workItem from="1730364545228" duration="840000" />
+      <workItem from="1731339704551" duration="5000" />
+      <workItem from="1731399531417" duration="2460000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -130,5 +144,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MetropoliaPython$AirportAPI.coverage" NAME="AirportAPI Coverage Results" MODIFIED="1731403216178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leevilaune/metropolia/13_taustapalvelu" />
+    <SUITE FILE_PATH="coverage/MetropoliaPython$rajapinta2.coverage" NAME="rajapinta2 Coverage Results" MODIFIED="1730284756714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leevilaune/metropolia/12_ulkoinen_rajapinta" />
   </component>
 </project>

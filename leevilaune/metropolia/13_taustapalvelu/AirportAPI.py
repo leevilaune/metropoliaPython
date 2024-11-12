@@ -1,5 +1,8 @@
+from sre_constants import error
+
 from flask import Flask, Response
 import json
+
 import mysql.connector
 
 app = Flask(__name__)
@@ -19,11 +22,12 @@ def get_airport(icao):
 
 @app.errorhandler(404)
 def page_not_found(errorcode):
+	print(errorcode.code)
 	error = {
-        "code" : "404",
+        "code" : errorcode.code,
         "text" : "Not Found"
     }
-	return Response(response=json.dumps(error), status=404, mimetype="application/json")
+	return Response(response=json.dumps(error), status=errorcode.code, mimetype="application/json")
 
 def get_airports(icao: str)->dict:
 	connection = mysql.connector.connect(host="127.0.0.1",
